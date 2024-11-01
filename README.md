@@ -25,9 +25,9 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                  | Difficulty   | Practice                                                                                     |
-|---------|-----------------------|--------------|----------------------------------------------------------------------------------------------|
-|       1 | 📖 100 Numpy Exercises | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/100-numpy-exercises-20746'>Start Lab</a> |
+|   Index | Name                  | Difficulty   | Practice                                                                                |
+|---------|-----------------------|--------------|-----------------------------------------------------------------------------------------|
+|       1 | 📖 100 Numpy Exercises | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100-numpy-exercises-20746'>Start Lab</a> |
 
 ## More
 
