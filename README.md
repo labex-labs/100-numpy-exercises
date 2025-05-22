@@ -1,8 +1,12 @@
 # 100 NumPy Exercises
 
-[![100 NumPy Exercises](https://cover-creator.labex.io/100-numpy-exercises.png)](https://labex.io/courses/100-numpy-exercises)
+## Languages
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/100-numpy-exercises)
+🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+
+[![100 NumPy Exercises](https://cover-creator.labex.io/100-numpy-exercises.png)](https://labex.io/en/courses/100-numpy-exercises)
+
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/100-numpy-exercises)
 
 NumPy is an extension library for Python language, supporting operations of a large number of high-dimensional arrays and matrices. In addition, it also provides a large number of mathematical function libraries for array operations. Machine learning involves a lot of transformations and operations on arrays, which makes NumPy one of the essential tools.
 
@@ -25,9 +29,9 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                   | Difficulty   | Practice                                                                                |
-|---------|------------------------|--------------|-----------------------------------------------------------------------------------------|
-|       1 | 📖 100 Numpy Exercises | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100-numpy-exercises-20746'>Start Lab</a> |
+|   Index | Name                   | Difficulty   | Practice                                                                                   |
+|---------|------------------------|--------------|--------------------------------------------------------------------------------------------|
+|       1 | 📖 100 Numpy Exercises | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/100-numpy-exercises-20746'>Start Lab</a> |
 
 ## More
 
