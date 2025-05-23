@@ -31,11 +31,11 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                   | Сложность   | Практика                                                                                            |
 |----------|----------------------------|-------------|-----------------------------------------------------------------------------------------------------|
-|        1 | 📖 100 упражнений по NumPy | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/100-numpy-exercises-20746'>Начать Лабораторию</a> |
+|        1 | 📖 100 упражнений по NumPy | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/100-numpy-exercises-20746'>Начать Лабораторию</a> |
 
 ## Больше
 
-- 🔗 [NumPy Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [NumPy Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- 🔗 [NumPy Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [NumPy Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [NumPy Бесплатные туториалы](https://github.com/labex-labs/numpy-free-tutorials)
 
