@@ -31,11 +31,11 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                           | 難易度   | 練習                                                                                        |
 |----------------|--------------------------------|----------|---------------------------------------------------------------------------------------------|
-|              1 | 📖 100 個の NumPy エクササイズ | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/100-numpy-exercises-20746'>ラボを開始</a> |
+|              1 | 📖 100 個の NumPy エクササイズ | 初級     | <a target='_blank' href='https://labex.io/ja/labs/100-numpy-exercises-20746'>ラボを開始</a> |
 
 ## その他
 
-- 🔗 [NumPy Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [NumPy Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- 🔗 [NumPy プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [NumPy プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [NumPy 無料チュートリアル](https://github.com/labex-labs/numpy-free-tutorials)
 
