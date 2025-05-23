@@ -31,11 +31,11 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                  | 난이도   | 연습                                                                                       |
 |----------|-----------------------|----------|--------------------------------------------------------------------------------------------|
-|        1 | 📖 100 Numpy 연습문제 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/100-numpy-exercises-20746'>실습 시작</a> |
+|        1 | 📖 100 Numpy 연습문제 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/100-numpy-exercises-20746'>실습 시작</a> |
 
 ## 더 보기
 
-- 🔗 [NumPy Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [NumPy Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- 🔗 [NumPy 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [NumPy 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [NumPy 무료 튜토리얼](https://github.com/labex-labs/numpy-free-tutorials)
 
