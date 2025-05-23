@@ -31,11 +31,11 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                 | Schwierigkeit   | Übung                                                                                          |
 |---------|----------------------|-----------------|------------------------------------------------------------------------------------------------|
-|       1 | 📖 100 Numpy Übungen | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/100-numpy-exercises-20746'>Labor Starten</a> |
+|       1 | 📖 100 Numpy Übungen | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/100-numpy-exercises-20746'>Labor Starten</a> |
 
 ## Mehr
 
-- 🔗 [NumPy Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [NumPy Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- 🔗 [NumPy Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [NumPy Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [NumPy Kostenlose Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
 
