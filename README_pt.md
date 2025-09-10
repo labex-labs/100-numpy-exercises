@@ -17,7 +17,7 @@ NumPy é uma biblioteca de extensão para a linguagem Python, que suporta opera�
 
 |   Índice | Nome                          | Dificuldade   | Prática                                                                                      |
 |----------|-------------------------------|---------------|----------------------------------------------------------------------------------------------|
-|        1 | 📖 🟢 100 Exercícios de Numpy | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/100-numpy-exercises-20746'>Iniciar Lab</a> |
+|        1 | 📖 🆓 100 Exercícios de Numpy | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/100-numpy-exercises-20746'>Iniciar Lab</a> |
 
 ## Ambiente
 
