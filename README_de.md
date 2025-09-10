@@ -17,7 +17,7 @@ NumPy ist eine Erweiterungsbibliothek für die Programmiersprache Python, die Op
 
 |   Index | Name                    | Schwierigkeit   | Übung                                                                                          |
 |---------|-------------------------|-----------------|------------------------------------------------------------------------------------------------|
-|       1 | 📖 🟢 100 Numpy Übungen | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/100-numpy-exercises-20746'>Labor Starten</a> |
+|       1 | 📖 🆓 100 Numpy Übungen | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/100-numpy-exercises-20746'>Labor Starten</a> |
 
 ## Umgebung
 
