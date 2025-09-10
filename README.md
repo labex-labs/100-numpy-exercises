@@ -17,7 +17,7 @@ NumPy is an extension library for Python language, supporting operations of a la
 
 |   Index | Name                      | Difficulty   | Practice                                                                                |
 |---------|---------------------------|--------------|-----------------------------------------------------------------------------------------|
-|       1 | 📖 🟢 100 Numpy Exercises | Beginner     | <a target='_blank' href='https://labex.io/labs/100-numpy-exercises-20746'>Start Lab</a> |
+|       1 | 📖 🆓 100 Numpy Exercises | Beginner     | <a target='_blank' href='https://labex.io/labs/100-numpy-exercises-20746'>Start Lab</a> |
 
 ## Environment
 
